@@ -9,3 +9,5 @@ __pycache__/
 
 # General
 *.tmp
+Scripts
+venv

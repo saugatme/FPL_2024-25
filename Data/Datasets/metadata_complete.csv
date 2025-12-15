@@ -1,0 +1,2 @@
+total_teams,total_players,total_gameweeks,total_positions,data_keys
+20,804,38,5,"['chips', 'events', 'game_settings', 'game_config', 'phases', 'teams', 'total_players', 'element_stats', 'element_types', 'elements']"
